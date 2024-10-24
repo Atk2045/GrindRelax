@@ -35,43 +35,40 @@ GrindRelax offers the following features to enhance your productivity:
 
 ## 💻 How to Run the Code
 
-## 💻 How to Run the Code
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/atk2045/GrindRelax.git
+   cd GrindRelax
 
-### Step 1: Clone the Repository
+2. **Install Dependencies**
 
-```bash
-git clone https://github.com/atk2045/GrindRelax.git
-cd GrindRelax
+   Run the following command to install all the necessary packages:
 
-### Step 2: Install Dependencies
+      ```bash
+      npm install
 
-Run the following command to install all the necessary packages:
+      
+3. **Start the Application**
 
-```bash
-npm install
+   Run the app in development mode:
 
+      ```bash
+      npm start
 
-Step 3: Start the Application
-Run the app in development mode:
-
-```bash
-npm start
-
-The application will open at http://localhost:3000.
+The application will open at (http://localhost:3000).
 
 That's it! The app is now up and running. 🎉
 
-
 ## 🧠 AI Assistance
 
-Throughout this project, I utilized AI assistance, mainly chat GPT to improve my understanding of React and JavaScript since I am better in python programming. Specifically, I used AI to help me with:
+Throughout this project, I utilized AI assistance, mainly ChatGPT, to improve my understanding of React and JavaScript since I am better in Python programming. Specifically, I used AI to help me with:
 
 - Setting up API integration with error handling and solving CORS issues.
 - Optimizing the logic for state management in the Pomodoro timer.
 - Providing guidance on transforming Python-like logic to JavaScript.
 - Writing parts of the CSS for better UI design.
 
-AI was especially helpful in explaining how to structure and optimize the code, allowing me to overcome challenges such as API errors and user design which I needed the help of AI in.
+AI was especially helpful in explaining how to structure and optimize the code, allowing me to overcome challenges such as API errors and user design.
 
 ## 🚀 Future Enhancements
 
@@ -81,7 +78,6 @@ Here are some potential future improvements to **GrindRelax**:
 - **Additional Music Options**: Provide a selection of ambient tracks to choose from.
 - **Progress Visualization**: Add visual charts to show how much time was spent on study vs. breaks over multiple sessions.
 - **User Authentication**: Enable saving user sessions to the cloud and logging into accounts for long-term tracking.
-
 
 
 
